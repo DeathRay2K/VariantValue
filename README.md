@@ -74,5 +74,5 @@ VariantValue parsedData(VariantValue::parse(jsonText, VariantValue::FORMAT_JSON)
 
 std::cout << parsedData.print(VariantValue::FORMAT_JSON, true)
 // Prints pretty JSON
-// Leave out the second parameter, or set to false for minimised JSON
+// Leave out the second parameter, or set to false for minified JSON
 ```
