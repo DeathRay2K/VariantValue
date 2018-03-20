@@ -30,7 +30,7 @@ num *= 10;
 // num == 10
 ```
 
-Convert to native types with no automatic conversions:
+Get native types with automatic conversions:
 ```c++
 VariantValue num("10");
 int value = num.asInt();
