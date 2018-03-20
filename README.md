@@ -1,6 +1,6 @@
 # VariantValue
 A c++ class for handling JSON-like representations of data with a super intuitive interface.
-The idea is to make handling data as effortlessly simple as it is in a dynamically-typed language.
+The idea is to make handling data as effortlessly simple as it is in a weakly-typed language.
 
 Supports initializer lists:
 ```c++
